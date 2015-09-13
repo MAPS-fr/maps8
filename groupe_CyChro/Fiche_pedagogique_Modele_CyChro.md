@@ -21,7 +21,7 @@ CyChro
 #CyChro
 
 
-![illustation du modele](img\cychro.png "cyclone")
+![illustation du modele](./img/cychro.png "cyclone")
 
 __Introduction et problématique__
 
