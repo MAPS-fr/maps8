@@ -2,21 +2,21 @@ Fiche pédagogique | Modèle CyChro | Juin 2015
 ------|-------|--------
 Collectif MAPS||MAPS 8
 
-**Domaine d’application **: 
+**Domaine d’application**: 
 Réseaux sociaux, Gestion de crise, risques naturels
 
-**Spécificité pédagogique **:
+**Spécificité pédagogique**:
 Modèle de diffusion de messages sur différents réseaux sociaux et l’impact sur la population dans le cadre d’une crise cyclonique
 
-**Niveau du public visé **:
+**Niveau du public visé**:
 Débutant
 
-**Nom du modèle correspondant **:
+**Nom du modèle correspondant**:
 CyChro
 
-**Version NetLogo nécessaire **: GAMA 1.6.1
+**Version NetLogo nécessaire**: GAMA 1.6.1
 
-**Auteurs **: [Mahé BEN HAMED](mailto:mahe.benhamed@gmail.com), [Imen BOUHLEL](mailto:Imen.BOUHLEL@unice.fr), [Delphine GRANCHER](mailto:Delphine.GRANCHER@lgp.cnrs.fr), [Carlos SUREDA GUTIÉRREZ](mailto:csureda@irit.fr)
+**Auteurs**: [Mahé BEN HAMED](mailto:mahe.benhamed@gmail.com), [Imen BOUHLEL](mailto:Imen.BOUHLEL@unice.fr), [Delphine GRANCHER](mailto:Delphine.GRANCHER@lgp.cnrs.fr), [Carlos SUREDA GUTIÉRREZ](mailto:csureda@irit.fr)
 
 #CyChro
 
