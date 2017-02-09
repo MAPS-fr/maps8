@@ -94,33 +94,10 @@ A la fin du nombre de tours prévus (=années)
 Par perte de la popularité nécessaire à la réélection du maire.
 Par classement en zone noire suite à un évènement (équivaut à des pertes humaines)
 
-### Sous modèles
-
-
-
-## Exploration du modèle
-### Manipulation du modèle
-Guide de manipulation du modèle et/ou exercice
-
-Explication des résultats illustrés par des screen shot du modèle par exemple
-
-### Exploration de l'espace des paramètres (optionnel)
-Rechercher les bornes du modèle
-
-Analyse de sensibilité, etc.
-## Conclusion
-Ce qu'il faut retenir du modèle
-
-Les apports didactiques
-
-Conseils d’utilisation de la fiche comme outil d’aide à l’enseignement.
-
-Poser une ou deux questions pour voir si l'utilisateur a bien compris le modèle et la fiche (optionnel)
-
 ## Publications
-Le modèle développé lors de MAPS 8 a fait l'objet de plusieurs Publications :
-* Adam, Carole, Franck Taillandier, Etienne Delay, Odile Plattard, et Mira Toumi. « SPRITE – participatory simulation for raising awareness about marine submersion risk on the Oleron island. » In International Conference on Information Systems for Crisis Response and Management in Mediterranean Countries. Madrid, 2016.
-* Taillandier, Franck, Carole Adam, Etienne Delay, Odile Plattard, et Mira Toumi. « Sprite : un modèle de simulation participative pour la sensibilisation au risque de submersion marine sur l’île d’Oléron. » Les annales du BTP, mars 2016, 8.
+Le modèle développé lors de MAPS 8 a fait l'objet de publications en 2016 :
+* Adam, Carole, Franck Taillandier, Etienne Delay, Odile Plattard, et Mira Toumi. « SPRITE – participatory simulation for raising awareness about marine submersion risk on the Oleron island. » In International Conference on Information Systems for Crisis Response and Management in Mediterranean Countries. Madrid, 2016.
+* Taillandier, Franck, Carole Adam, Etienne Delay, Odile Plattard, et Mira Toumi. « Sprite : un modèle de simulation participative pour la sensibilisation au risque de submersion marine sur l’île d’Oléron. » Les annales du BTP, mars 2016, 8.
 
 ## Perspectives (Optionnel)
-## Bibliographie
+Le modèle Sprite continue à être développé par les auteurs. Une version 2 est en cours de documentation.
